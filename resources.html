@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
     <title>CS683/KEP500: Resources</title>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
-          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/epl133.css">
+    <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+          integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" rel="stylesheet">
+    <link href="css/epl133.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -35,6 +35,7 @@
       margin-bottom: 0;
     }
 
+
     </style>
 </head>
 <body>
@@ -59,7 +60,7 @@
         </div>
         <div class="container-fluid" style="padding:10px 10px">
             <nav class="collapse navbar-collapse">
-                <ul class="nav nav-tabs" role="navigation" id=epl425-nav>
+                <ul class="nav nav-tabs" id=epl425-nav role="navigation">
                     <li><a href="index.html">Homepage</a></li>
                     <li><a href="outline.html">Course Outline</a></li>
                     <li><a href="schedule.html">Class Schedule</a></li>
@@ -75,8 +76,8 @@
         <nav class="navbar navbar-default visible-xs">
             <div class="container-fluid visible-xs">
                 <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed visible-xs" data-toggle="collapse"
-                            data-target="#myNavbar" aria-expanded="false" aria-controls="navbar">
+                    <button aria-controls="navbar" aria-expanded="false" class="navbar-toggle collapsed visible-xs"
+                            data-target="#myNavbar" data-toggle="collapse" type="button">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -84,7 +85,7 @@
                     </button>
                     <a class="navbar-brand" href="index.html">Homepage</a>
                 </div>
-                <div id="myNavbar" class="navbar-collapse collapse">
+                <div class="navbar-collapse collapse" id="myNavbar">
                     <ul class="nav navbar-bar">
                         <li><a href="outline.html">Course Outline</a></li>
                         <li><a href="schedule.html">Class Schedule</a></li>
@@ -114,6 +115,8 @@
             Wiley, 2010.
         </li>
         <li>Kai-Fu Lee and Chen Qiufan, "AI 2041: Ten Visions for Our Future." Currency, 2021.</li>
+        <li>Ash Fontana, "The AI-First Company: How to Compete and Win with Artificial Intelligence." Penguin, 2021.
+        </li>
     </ul>
 
     <h4>Other Books</h4>
@@ -127,6 +130,12 @@
         </li>
         <li>Cade Metz, “The Genius Makers: The Mavericks Who Brought A.I. to Google, Facebook, and the World.” Random
             House Business, 2021
+        </li>
+        <li>Cathy O’Neil, “Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy.”
+            Crown, 2016.
+        </li>
+        <li>Brad Smith and C.A. Browne, “Tools and Weapons. The Promise and the Peril of the Digital Age”
+            Penguin, 2019.
         </li>
     </ul>
 
@@ -181,7 +190,7 @@
         <li>Silicon Valley's <a
                 href="https://www.theguardian.com/us-news/2019/jun/26/how-to-speak-silicon-valley-decoding-tech-bros-from-microdosing-to-privacy"
                 target="_blank">lexicon
-            explained (The Guardian).</li>
+            explained (The Guardian).</a></li>
         <li>A brief history of <a
                 href="https://medium.com/profiles-in-entrepreneurship/a-brief-history-of-salesforce-and-key-lessons-for-b2b-entrepreneurs-5c9d8d5337e2"
                 target="_blank">Salesforce
@@ -316,13 +325,12 @@
         <li><a href="https://a16z.com/" target="_blank">Andreessen Horowitz Newsletter.</a></li>
     </ul>
 
+
+    <footer class="hidden-print">
+        <hr/>
+        <p class="text-center">[<a href="index.html">Homepage</a>]</p>
+        <small>Marios Dikaiakos, &copy; 2023 </small>
+    </footer>
 </div>
-
-<footer class="hidden-print">
-    <hr/>
-    <p class="text-center">[<a href="index.html">Homepage</a>]</p>
-    <small>Marios Dikaiakos, &copy; 2023 </small>
-</footer>
-
 </body>
 </html>
