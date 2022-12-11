@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ab39cf-4a51-4751-a6d7-3ae4b36562bd" name="Changes" comment="updated resources">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outline.html" beforeDir="false" afterPath="$PROJECT_DIR$/outline.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670536394230</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated resources">
+      <created>1670536814037</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670536814037</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
