@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7ab39cf-4a51-4751-a6d7-3ae4b36562bd" name="Changes" comment="outline">
+    <list default="true" id="d7ab39cf-4a51-4751-a6d7-3ae4b36562bd" name="Changes" comment="added remaining entries for outline and coloring for 24S themes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/epl133.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/epl133.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/outline.html" beforeDir="false" afterPath="$PROJECT_DIR$/outline.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670941735623</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added remaining entries for outline and coloring for 24S themes">
+      <created>1671014414335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671014414341</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,6 +114,7 @@
     <MESSAGE value="updated resources" />
     <MESSAGE value="updated outline &amp; resources" />
     <MESSAGE value="outline" />
-    <option name="LAST_COMMIT_MESSAGE" value="outline" />
+    <MESSAGE value="added remaining entries for outline and coloring for 24S themes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added remaining entries for outline and coloring for 24S themes" />
   </component>
 </project>
