@@ -20,7 +20,7 @@
 
 .btn:hover {
 	background: black;
-	color: #FF8000;
+	color: #FF8000 ;
 }
 
 
@@ -98,7 +98,6 @@ dl > dl {
     background-color: #A2D9CE  ;
     text-align: right;
 }
-
 
 .theme5-24steps {
     background-color: #F6DDCC  ;
