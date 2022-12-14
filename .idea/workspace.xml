@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7ab39cf-4a51-4751-a6d7-3ae4b36562bd" name="Changes" comment="added remaining entries for outline and coloring for 24S themes">
+    <list default="true" id="d7ab39cf-4a51-4751-a6d7-3ae4b36562bd" name="Changes" comment="added moodle link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignments.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contract.html" beforeDir="false" afterPath="$PROJECT_DIR$/contract.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header-template.html" beforeDir="false" afterPath="$PROJECT_DIR$/header-template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/outline.html" beforeDir="false" afterPath="$PROJECT_DIR$/outline.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671014414341</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added remaining entries for outline and coloring for 24S themes">
+      <created>1671014710024</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671014710024</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +127,7 @@
     <MESSAGE value="updated outline &amp; resources" />
     <MESSAGE value="outline" />
     <MESSAGE value="added remaining entries for outline and coloring for 24S themes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added remaining entries for outline and coloring for 24S themes" />
+    <MESSAGE value="added moodle link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added moodle link" />
   </component>
 </project>
