@@ -8,10 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignments.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignments.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contract.html" beforeDir="false" afterPath="$PROJECT_DIR$/contract.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header-template.html" beforeDir="false" afterPath="$PROJECT_DIR$/header-template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/outline.html" beforeDir="false" afterPath="$PROJECT_DIR$/outline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671014710024</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added moodle link">
+      <created>1671015561181</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671015561181</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
