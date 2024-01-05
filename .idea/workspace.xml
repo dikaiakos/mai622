@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7ab39cf-4a51-4751-a6d7-3ae4b36562bd" name="Changes" comment="updates and resources">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="d7ab39cf-4a51-4751-a6d7-3ae4b36562bd" name="Changes" comment="added ulrs to resources">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assignments.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contract.html" beforeDir="false" afterPath="$PROJECT_DIR$/syllabus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header-template.html" beforeDir="false" afterPath="$PROJECT_DIR$/header-template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/resources.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/syllabus.html" beforeDir="false" afterPath="$PROJECT_DIR$/syllabus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +55,11 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -76,8 +73,12 @@
       <updated>1670503286218</updated>
       <workItem from="1671052402060" duration="384000" />
       <workItem from="1671541407180" duration="500000" />
-      <workItem from="1702632107933" duration="8833000" />
-      <workItem from="1702983781961" duration="999000" />
+      <workItem from="1687937800090" duration="17000" />
+      <workItem from="1687937866973" duration="64000" />
+      <workItem from="1687937945438" duration="1240000" />
+      <workItem from="1702746135358" duration="3789000" />
+      <workItem from="1703502478955" duration="1541000" />
+      <workItem from="1704470808784" duration="372000" />
     </task>
     <task id="LOCAL-00001" summary="updated resources &amp; index">
       <created>1670536394230</created>
@@ -135,29 +136,42 @@
       <option name="project" value="LOCAL" />
       <updated>1671196244236</updated>
     </task>
-    <task id="LOCAL-00009" summary="renaming outline to syllabus, resources' updates">
-      <created>1673707402121</created>
+    <task id="LOCAL-00009" summary="fixed page titles">
+      <created>1673813476482</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1673707402121</updated>
+      <updated>1673813476483</updated>
     </task>
-    <task id="LOCAL-00010" summary="added Topic 1.4">
-      <created>1673714969710</created>
+    <task id="LOCAL-00010" summary="updated grading">
+      <created>1673818859979</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1673714969710</updated>
+      <updated>1673818859979</updated>
     </task>
-    <task id="LOCAL-00011" summary="updates and resources">
-      <option name="closed" value="true" />
-      <created>1702643987604</created>
+    <task id="LOCAL-00011" summary="updated grading 2">
+      <created>1673819000758</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1702643987604</updated>
+      <updated>1673819000758</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added AWS online courses for LLMs">
+      <created>1703446908331</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1703446908332</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added ulrs to resources">
+      <created>1703506184687</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1703506184687</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,9 +198,11 @@
     <MESSAGE value="changed color for theme 2" />
     <MESSAGE value="updates" />
     <MESSAGE value="update in index" />
-    <MESSAGE value="renaming outline to syllabus, resources' updates" />
-    <MESSAGE value="added Topic 1.4" />
-    <MESSAGE value="updates and resources" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates and resources" />
+    <MESSAGE value="fixed page titles" />
+    <MESSAGE value="updated grading" />
+    <MESSAGE value="updated grading 2" />
+    <MESSAGE value="added AWS online courses for LLMs" />
+    <MESSAGE value="added ulrs to resources" />
+    <option name="LAST_COMMIT_MESSAGE" value="added ulrs to resources" />
   </component>
 </project>
